@@ -1,4 +1,4 @@
 # gitcourse
 full zero course
 
-##project notes
+## project notes
